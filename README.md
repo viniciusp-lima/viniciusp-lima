@@ -78,8 +78,12 @@ Meu nome é Vinícius Lima, tenho 26 anos e sou formado em Ciência da Computaç
 
 ### 🚀 Projetos
 
-| Projeto | Descrição | Acessar |
-|--------|----------|--------|
-| SaaS para Arquitetos | Gestão de projetos, clientes e finanças | [Abrir](https://link.com) |
-| Plataforma de Vendas | Criador de páginas de venda para serviços | [Abrir](https://link.com) |
+#### Nexus
+Plataforma SaaS desenvolvida para arquitetos e pequenos escritórios, focada em gestão de projetos, clientes, finanças e equipe.
+O sistema foi construído em uma arquitetura **multitenant**, onde cada escritório possui seu próprio banco de dados, garantindo isolamento, segurança e escalabilidade.  
+Conta com funcionalidades como controle financeiro mensal, organização de projetos por etapas, gerenciamento de equipe com permissões de acesso e portfólio público para venda de projetos prontos.
+
+**Tecnologias:** Laravel, MySQL, jQuery
+
+🔗 **Acessar:** [https://arqnexus.com.br](https://arqnexus.com.br/)
 
