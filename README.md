@@ -62,7 +62,7 @@ Meu nome é Vinícius Lima, tenho 26 anos e sou formado em Ciência da Computaç
     title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
 <img 
     align="left" 
