@@ -76,5 +76,10 @@ Meu nome é Vinícius Lima, tenho 26 anos e sou formado em Ciência da Computaç
 <br/>
 <br/>
 
-### 📊 Projetos
+### 🚀 Projetos
+
+| Projeto | Descrição | Acessar |
+|--------|----------|--------|
+| SaaS para Arquitetos | Gestão de projetos, clientes e finanças | [Abrir](https://link.com) |
+| Plataforma de Vendas | Criador de páginas de venda para serviços | [Abrir](https://link.com) |
 
