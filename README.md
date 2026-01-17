@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Vinícius Lima
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor Backend`**
 
 Meu nome é Vinícius Lima, tenho 26 anos e sou formado em Ciência da Computação. Atuo como desenvolvedor backend, com mais de 2 anos de experiência, trabalhando no desenvolvimento e manutenção de sistemas em PHP. Também possuo conhecimento e experiência com o framework Laravel, sempre buscando soluções eficientes, escaláveis e bem estruturadas.
 
