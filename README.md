@@ -76,6 +76,8 @@ Meu nome é Vinícius Lima, tenho 26 anos e sou formado em Ciência da Computaç
 <br/>
 <br/>
 
+---
+
 ### 🚀 Projetos
 
 #### Nexus
