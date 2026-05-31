@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Meu nome é Vinícius Lima, sou formado em Ciência da Computação. Atuo como desenvolvedor backend, com mais de 2 anos de experiência, trabalhando no desenvolvimento e manutenção de sistemas em PHP. Também possuo conhecimento e experiência com o framework Laravel, sempre buscando soluções eficientes, escaláveis e bem estruturadas.
+Meu nome é Vinícius Lima, sou formado em Ciência da Computação. Atuo como desenvolvedor backend, com 3 anos de experiência, trabalhando no desenvolvimento e manutenção de sistemas em PHP. Também possuo conhecimento e experiência com o framework Laravel, sempre buscando soluções eficientes, escaláveis e bem estruturadas.
 
 ---
 
